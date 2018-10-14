@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "sparkmobileapp-20181014084852-authRole",
+            "UnauthRoleArn": "arn:aws:iam::849422063466:role/sparkmobileapp-20181014084852-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::849422063466:role/sparkmobileapp-20181014084852-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "sparkmobileapp-20181014084852-deployment",
+            "UnauthRoleName": "sparkmobileapp-20181014084852-unauthRole",
+            "StackName": "sparkmobileapp-20181014084852",
+            "StackId": "arn:aws:cloudformation:us-east-1:849422063466:stack/sparkmobileapp-20181014084852/e3490b60-cfb7-11e8-bd98-50fae98b1835"
+        }
+    }
+}
